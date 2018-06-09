@@ -2,13 +2,13 @@
 <html ng-app="app">
 <head>
 <!-- LIBS CSS -->
-<link rel="stylesheet" href="webjars/bootstrap/3.3.5/css/bootstrap.css">
+<link rel="stylesheet" href="webjars/bootstrap/4.1.1/css/bootstrap.css">
 <link rel="stylesheet" href="styles.css">
 <!-- LIBS JS -->
-<script src="webjars/angularjs/1.6.4/angular.js"></script>
-<script src="webjars/angularjs/1.6.4/angular-resource.js"></script>
-<script src="webjars/angularjs/1.6.4/angular-animate.js"></script>
-<script src="webjars/angular-ui-bootstrap/0.14.0/ui-bootstrap-tpls.js"></script>
+<script src="webjars/angularjs/1.7.0/angular.js"></script>
+<script src="webjars/angularjs/1.7.0/angular-resource.js"></script>
+<script src="webjars/angularjs/1.7.0/angular-animate.js"></script>
+<script src="webjars/angular-ui-bootstrap/2.5.0/ui-bootstrap-tpls.js"></script>
 <script src="webjars/ng-file-upload/12.0.4/ng-file-upload.js"></script>
 <!-- YOUR JS -->
 <script src="app.js"></script>
